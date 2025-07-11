@@ -1,0 +1,10 @@
+
+  #weather-display {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    max-width: 400px;
+    font-family: sans-serif;
+    background-color: #f7f7f7;
+  }
